@@ -1,0 +1,319 @@
+canonical_identifier: bkk:krp/KR3eo019/v1
+canonical_location: https://kanripo.org/bkk/KR3eo019/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 太素心要
+  identifiers:
+    krp: KR3eo019
+  tags:
+    kr-categories: KR3eo
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eo019.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR3eo019_001.yaml, hash: 'sha256:c4eed2cc206e278459df7d5702fdbda0351db0f7ae429f0474b95f4aecca0ef3'}
+  - {seq: 3, filename: KR3eo019_003.yaml, hash: 'sha256:deeb5e3f619f0cc40fa9e58eb08bc3edbcc7eba4ae0fe86854a6492e64cb6258'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3eo019_001.markers.yaml, hash: 'sha256:53f5c3161181a60f1791b2095bd5d1310b532e93d5df25215402f5a81f0e32c1'}
+  - {seq: 3, role: markers, filename: assets/KR3eo019_003.markers.yaml, hash: 'sha256:a1f0d320e38d50d6140f939ffb54242d3b49bb9b04b25cdaf9e2b88872a2988c'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3eo019_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 8590
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eo019_jc_001-d2d2
+    span:
+    - body
+    - 2
+    - 221
+  label: 太素心照訣
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo019_jc_001-d2d3
+    span:
+    - body
+    - 221
+    - 297
+  label: 診候歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo019_jc_001-d2d4
+    span:
+    - body
+    - 297
+    - 328
+  label: 診脈歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo019_jc_001-d2d5
+    span:
+    - body
+    - 328
+    - 466
+  label: 五行脈歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo019_jc_001-d2d6
+    span:
+    - body
+    - 466
+    - 525
+  label: 四時脈
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo019_jc_001-d2d7
+    span:
+    - body
+    - 525
+    - 587
+  label: 臟腑配十時脈
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo019_jc_001-d2d8
+    span:
+    - body
+    - 587
+    - 620
+  label: 五陽配天干
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo019_jc_001-d2d9
+    span:
+    - body
+    - 620
+    - 653
+  label: 五陰配地支
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo019_jc_001-d2d10
+    span:
+    - body
+    - 653
+    - 958
+  label: 斷例歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo019_jc_001-d2d11
+    span:
+    - body
+    - 958
+    - 983
+  label: 五行相貌脈
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo019_jc_001-d2d12
+    span:
+    - body
+    - 983
+    - 1075
+  label: 陰陽相反
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo019_jc_001-d2d13
+    span:
+    - body
+    - 1075
+    - 1132
+  label: 老人之脈
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo019_jc_001-d2d14
+    span:
+    - body
+    - 1132
+    - 1379
+  label: 少年之脈
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo019_jc_001-d2d15
+    span:
+    - body
+    - 1379
+    - 1890
+  label: 太素脈前分吉凶賦
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo019_jc_001-d2d16
+    span:
+    - body
+    - 1890
+    - 3291
+  label: 太素微論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo019_jc_001-d2d17
+    span:
+    - body
+    - 3291
+    - 3843
+  label: 太素定初中末主取卦行運秘訣
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo019_jc_001-d2d18
+    span:
+    - body
+    - 3843
+    - 3942
+  label: 脾部見物色有所傷
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo019_jc_001-d2d19
+    span:
+    - body
+    - 3942
+    - 4041
+  label: 脾部見味傷
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo019_jc_001-d2d20
+    span:
+    - body
+    - 4041
+    - 5731
+  label: 心部
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo019_jc_001-d2d21
+    span:
+    - body
+    - 5731
+    - 7097
+  label: 肝部
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo019_jc_001-d2d22
+    span:
+    - body
+    - 7097
+    - 7235
+  label: 腎部
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo019_jc_001-d2d23
+    span:
+    - body
+    - 7235
+    - 8590
+  label: 臟腑脈
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eo019_jc_003-d3.h1s1
+    span:
+    - body
+    - 0
+    - 8545
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eo019_jc_003-d3d2
+    span:
+    - body
+    - 2
+    - 1203
+  label: 肺部
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eo019_jc_003-d3d3
+    span:
+    - body
+    - 1203
+    - 2403
+  label: 脾部
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eo019_jc_003-d3d4
+    span:
+    - body
+    - 2403
+    - 2999
+  label: 命門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eo019_jc_003-d3d5
+    span:
+    - body
+    - 2999
+    - 7843
+  label: 雜斷類
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eo019_jc_003-d3d6
+    span:
+    - body
+    - 7843
+    - 8545
+  label: 婦人門
+  type: section
+  level: 2
+hash: sha256:78003adef01c95a61626c7952dd26304b47c1b9781c3ca2cfc691cc24b3b50d2
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
